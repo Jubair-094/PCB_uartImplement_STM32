@@ -5,3 +5,6 @@ folder uart:
   it will open schematic editor
 2."uart.kicad_pcb" contains the layout design. here all the routing are implemented. This is a 
   2 layer pcb and by going to 3d view can see the physical view of the pcb
+
+folder GerberFile:
+This folder contains the information related to printing the pcb. zip the GerberFile and can upload to the website (like 'PCBWay') to print the uart pcb board
